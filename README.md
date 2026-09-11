@@ -10,22 +10,21 @@ Contact me on linkedin: http://linkedin.com/in/solutionbylaiba for demo video re
 
 **Receipt Forwarded by Email**
 
-<img width="1920" height="1080" alt="invoice attach" src="https://github.com/user-attachments/assets/ba13ffa9-0eb7-463e-be96-84d3088058ed" />
-
+<img width="1920" height="799" alt="invoice attach" src="https://github.com/user-attachments/assets/ec3144d7-2b76-4110-abe6-c4d8287a6d06" />
 
 **n8n Workflow Canvas**
 
-<img width="1920" height="1080" alt="workflow" src="https://github.com/user-attachments/assets/b353fc59-5492-4657-b095-aff41100b239" />
+<img width="1920" height="796" alt="workflow" src="https://github.com/user-attachments/assets/d4046152-a4a8-4a21-9573-77e300fab2fc" />
 
 
 **Expenses — Google Sheet**
 
-<img width="1920" height="1080" alt="excel log" src="https://github.com/user-attachments/assets/f59ea4e5-997f-4a5c-83d9-348981b16f16" />
+<img width="1920" height="766" alt="excel log" src="https://github.com/user-attachments/assets/67847d0f-bfdd-4f5e-9683-dc85ca9851c6" />
 
 
 **High-Value Alert Email**
 
-<img width="1920" height="1080" alt="high amount alert email" src="https://github.com/user-attachments/assets/2398d7ca-346a-4088-a3bc-bf81e3440c21" />
+<img width="1909" height="789" alt="high amount alert email" src="https://github.com/user-attachments/assets/262ffd2c-2206-4d26-bc92-7f5aab60db0c" />
 
 
 ## What You'll Need
